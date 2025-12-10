@@ -1,11 +1,11 @@
 # Sistema de Gerenciamento de Hotel - Modelagem de dados e Scripts SQL
-este repositório reúne os scripts DDL, DML e DQL desenvolvidos para a implementação de um Sistema de Gerenciamento de Hotel, criado como atividade prática da disciplina de Modelagem de Informação.
+Este repositório reúne os scripts DDL, DML e DQL desenvolvidos para a implementação de um Sistema de Gerenciamento de Hotel, criado como atividade prática da disciplina de Modelagem de Informação.
 
 O desenvolvimento do projeto seguiu uma abordagem estruturada, iniciando-se pela modelagem conceitual utilizando o Diagrama Entidade-Relacionamento (ER), onde foram identificadas as principais entidades do sistema, seus atributos e relacionamentos.
 
-Em seguida, foi realizada a fase de normalização, garantindo maior integridade, organização e eficiência dos dados, eliminando redundâncias e anomalias de atualização.
+Após a definição do modelo conceitual, o projeto avançou para a construção do modelo lógico, representado pelo diagrama em notação Pé de Galinha (Crow’s Foot), traduzindo de forma mais técnica e detalhada a estrutura do banco de dados.
 
-Após a normalização, o projeto avançou para a construção do modelo lógico, representado pelo diagrama em notação Pé de Galinha (Crow’s Foot), traduzindo de forma mais técnica e detalhada a estrutura do banco de dados.
+Em seguida, foi realizada a fase de normalização, garantindo maior integridade, organização e eficiência dos dados, eliminando redundâncias e anomalias de atualização.
 
 Com todas as etapas de modelagem concluídas, foram então desenvolvidos os scripts SQL, que estão organizados da seguinte forma:
 
